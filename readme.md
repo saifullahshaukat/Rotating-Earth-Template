@@ -12,7 +12,7 @@ This project is a template for creating a rotating Earth animation using HTML, C
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/rotating-earth-animation.git](https://github.com/saifullahshaukat/Rotating-Earth-Template.git)
+    git clone (https://github.com/saifullahshaukat/Rotating-Earth-Template.git)
     ```
 2. Navigate to the project directory:
     ```bash
